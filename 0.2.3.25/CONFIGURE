@@ -1,0 +1,1 @@
+./configure --prefix=/home/Tor/.App/ioTor0.2.3.25-Debian7/Linux-ia32   --enable-instrument-downloads
